@@ -1,4 +1,5 @@
 🌸 Iris Dataset Analysis with Python
+
 This project involves performing exploratory data analysis (EDA) and basic visualization on the famous Iris dataset using Pandas, Matplotlib, and Seaborn. The goal is to understand the data structure, identify trends or patterns, check for missing/duplicate values, and visualize relationships between features.
 
 📁 Dataset Source
